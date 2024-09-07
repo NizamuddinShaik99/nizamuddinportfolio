@@ -551,7 +551,7 @@ nav {
     border: 1px solid rgba(255, 255, 255, 0.255);
   }
   .banner-image1 {
-    background-image: url(https://elfsight.com/wp-content/uploads/2020/01/restaurant_menu_screenshot-1.jpg);
+    background-image: url("images/Rest.png");
     background-position: center;
     background-size: cover;
     height: 200px;
